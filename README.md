@@ -40,12 +40,12 @@ Built using **React (JSX + CSS), Node.js, Express, and MongoDB**.
 
 <div align="center">
 
-### 🧠 Main Editor Screen  
+### Main Editor Screen  
 <img src="frontend/assets/screen1.png" width="750"/>
 
 <br/>
 
-### History Stored (MongoDB)  
+### History Stored   
 <img src="frontend/assets/screen2.png" width="750"/>
 
 </div>
