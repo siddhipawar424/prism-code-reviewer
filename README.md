@@ -30,7 +30,13 @@ Built using **React (JSX + CSS), Node.js, Express, and MongoDB**.
 
 ---
 
-## UI PREVIEW
+## Demo
+
+[GitHub Repository](https://github.com/siddhipawar424/prism-code-reviewer)
+
+---
+
+## PREVIEW
 
 <div align="center">
 
