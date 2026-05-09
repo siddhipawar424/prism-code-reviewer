@@ -1,4 +1,4 @@
-# ⚡ PRISM CODE REVIEWER  
+# PRISM CODE REVIEWER  
 ### AI Powered Code Analysis System
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Prism Code Reviewer is an AI-powered developer tool that analyzes code and provides structured, intelligent feedback like a senior engineer.
 
@@ -30,7 +30,7 @@ Built using **React (JSX + CSS), Node.js, Express, and MongoDB**.
 
 ---
 
-## 📸 UI PREVIEW
+## UI PREVIEW
 
 <div align="center">
 
@@ -39,27 +39,27 @@ Built using **React (JSX + CSS), Node.js, Express, and MongoDB**.
 
 <br/>
 
-### 📚 History Stored (MongoDB)  
+### History Stored (MongoDB)  
 <img src="frontend/assets/screen2.png" width="750"/>
 
 </div>
 
 ---
 
-## ✨ Features
+## Features
 
-⚡ AI-powered code analysis engine  
-🧠 Smart bug detection system  
-📊 Structured feedback (errors, warnings, suggestions)  
-💡 Code optimization recommendations  
-📂 MongoDB history tracking system  
-🔄 Real-time API responses  
-🎯 Clean developer-focused UI  
-📱 Fully responsive React interface  
+- AI-powered code analysis engine  
+- Smart bug detection system  
+- Structured feedback (errors, warnings, suggestions)  
+- Code optimization recommendations  
+- MongoDB history tracking system  
+- Real-time API responses  
+- Clean developer-focused UI  
+- Fully responsive React interface  
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React.js (JSX)
@@ -73,7 +73,7 @@ Built using **React (JSX + CSS), Node.js, Express, and MongoDB**.
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 Frontend (React)  
 → API Request (Axios)  
@@ -84,7 +84,7 @@ Frontend (React)
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 1. User writes/pastes code  
 2. Frontend sends request to backend  
@@ -95,7 +95,7 @@ Frontend (React)
 
 ---
 
-## 🧠 AI Capabilities
+## AI Capabilities
 
 - Static code analysis  
 - Logic error detection  
@@ -105,7 +105,7 @@ Frontend (React)
 
 ---
 
-## 📂 Database (MongoDB)
+## Database (MongoDB)
 
 Stores:
 - Code snippets  
@@ -115,7 +115,7 @@ Stores:
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 ```env
 PORT=5000
